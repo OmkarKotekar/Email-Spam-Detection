@@ -1,13 +1,19 @@
 # Email-Spam-Detection
- 
-First clone this repo using git bash if you have else download zip file.
-Then go to spam-email-detection folder.
-Then open terminal in this folder.
-Type npm install.
-Then type npm run dev to run frontend in same terminal.
-Open another terminal in same folder.
-Type python server.py to run backend.
+
+To get started, follow these steps:
+
+1. **Clone Repository:** Begin by cloning this repository using Git Bash, or alternatively, download the zip file and extract it.
+
+2. **Navigate to Folder:** Once cloned or extracted, navigate to the "spam-email-detection" folder in your terminal.
+
+3. **Install Dependencies:** Use npm to install the required dependencies by typing `npm install` in your terminal.
+
+4. **Run Frontend:** Start the frontend by typing `npm run dev` in the same terminal. This command will launch the frontend of the application.
+
+5. **Run Backend:** Open another terminal within the same folder and type `python server.py` to run the backend of the application. This file (`server.py`) is responsible for connecting the frontend and backend components.
+
 Note:
-server.py - For connecting frontend and backend.
-spam_detector.py - ML Model.
-If done changes in project, use github to upload if downloaded zip or else upload using git commit of gitbash.
+- `server.py` is responsible for connecting the frontend and backend.
+- `spam_detector.py` contains the Machine Learning model used for spam detection.
+
+If you make any changes to the project, remember to upload them to GitHub. If you downloaded the zip file, use Git Bash to commit and push the changes. If you cloned the repository, you can simply use Git commands to commit and push the changes to GitHub.
