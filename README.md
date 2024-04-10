@@ -1,6 +1,6 @@
 # Email-Spam-Detection
  
-First clone this repo using git bash if you have else download zip file./n
+First clone this repo using git bash if you have else download zip file.
 Then go to spam-email-detection folder.
 Then open terminal in this folder.
 Type npm install.
